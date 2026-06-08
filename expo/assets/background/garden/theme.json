@@ -1,0 +1,26 @@
+{
+  "themeName": "Zen Botanical",
+  "themeId": "garden",
+  "palette": {
+    "background": "#16231C",
+    "primaryAccent": "#FFB7C5",
+    "secondaryAccent": "#FF4081",
+    "gridLineColor": "rgba(255, 183, 197, 0.1)",
+    "gridDotColor": "rgba(255, 64, 129, 0.3)",
+    "pathColor": "#F5F5F0",
+    "portalSpawn": "#F48FB1",
+    "portalExit": "#C2185B"
+  },
+  "decorations": [
+    {
+      "type": "cherry_petals",
+      "style": "floating_soft_pink_specks",
+      "count": 25
+    },
+    {
+      "type": "concentric_stones",
+      "style": "zen_gravel_rings",
+      "count": 4
+    }
+  ]
+}

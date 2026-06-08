@@ -1,0 +1,26 @@
+{
+  "themeName": "Cyber Expressway",
+  "themeId": "highway",
+  "palette": {
+    "background": "#121214",
+    "primaryAccent": "#FFEB3B",
+    "secondaryAccent": "#FF9800",
+    "gridLineColor": "rgba(255, 235, 59, 0.08)",
+    "gridDotColor": "rgba(255, 152, 0, 0.25)",
+    "pathColor": "#00E5FF",
+    "portalSpawn": "#FFEE58",
+    "portalExit": "#F57C00"
+  },
+  "decorations": [
+    {
+      "type": "transit_lines",
+      "style": "fast_motion_highways",
+      "count": 6
+    },
+    {
+      "type": "hazard_symbols",
+      "style": "warning_stripes_underlay",
+      "count": 8
+    }
+  ]
+}

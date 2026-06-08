@@ -1,0 +1,31 @@
+{
+  "themeName": "Winter Frostbite Tundra",
+  "themeId": "winter",
+  "palette": {
+    "background": "#0D2436",
+    "primaryAccent": "#80DEEA",
+    "secondaryAccent": "#00E5FF",
+    "gridLineColor": "rgba(128, 222, 234, 0.1)",
+    "gridDotColor": "rgba(0, 229, 255, 0.3)",
+    "pathColor": "#E0F7FA",
+    "portalSpawn": "#26C6DA",
+    "portalExit": "#00acc1"
+  },
+  "decorations": [
+    {
+      "type": "snow_mound",
+      "style": "semi_transparent_white_circles",
+      "count": 15
+    },
+    {
+      "type": "ice_shards",
+      "style": "cyan_polygon_borders",
+      "count": 8
+    },
+    {
+      "type": "frozen_creek",
+      "style": "curved_transparent_overlay",
+      "path": "spawn_to_exit_underlay"
+    }
+  ]
+}

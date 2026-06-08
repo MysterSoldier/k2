@@ -1,0 +1,26 @@
+{
+  "themeName": "Lava Crucible",
+  "themeId": "lava",
+  "palette": {
+    "background": "#190505",
+    "primaryAccent": "#FF8A80",
+    "secondaryAccent": "#F44336",
+    "gridLineColor": "rgba(255, 138, 128, 0.12)",
+    "gridDotColor": "rgba(244, 67, 54, 0.3)",
+    "pathColor": "#FFEBEE",
+    "portalSpawn": "#FF5252",
+    "portalExit": "#D32F2F"
+  },
+  "decorations": [
+    {
+      "type": "magma_bubbles",
+      "style": "bursting_orange_circles",
+      "count": 14
+    },
+    {
+      "type": "smoke_vents",
+      "style": "rising_ashy_particles",
+      "count": 8
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "themeName": "Ancient Relics",
+  "themeId": "ruins",
+  "palette": {
+    "background": "#1F1F1A",
+    "primaryAccent": "#C5E1A5",
+    "secondaryAccent": "#9CCC65",
+    "gridLineColor": "rgba(197, 225, 165, 0.1)",
+    "gridDotColor": "rgba(156, 204, 101, 0.25)",
+    "pathColor": "#FFF9C4",
+    "portalSpawn": "#AED581",
+    "portalExit": "#689F38"
+  },
+  "decorations": [
+    {
+      "type": "broken_pillars",
+      "style": "stone_brick_remnants",
+      "count": 6
+    },
+    {
+      "type": "rubble_crumbs",
+      "style": "littered_rock_shards",
+      "count": 15
+    }
+  ]
+}

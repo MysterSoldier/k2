@@ -1,0 +1,26 @@
+{
+  "themeName": "Cobble Gridway",
+  "themeId": "stonebrickroad",
+  "palette": {
+    "background": "#1E1F22",
+    "primaryAccent": "#FFD54F",
+    "secondaryAccent": "#D4AF37",
+    "gridLineColor": "rgba(255, 213, 79, 0.08)",
+    "gridDotColor": "rgba(212, 175, 55, 0.25)",
+    "pathColor": "#E2E2E2",
+    "portalSpawn": "#FFE082",
+    "portalExit": "#FFB300"
+  },
+  "decorations": [
+    {
+      "type": "cracked_stones",
+      "style": "cobble_brick_overlay",
+      "count": 10
+    },
+    {
+      "type": "lanterns",
+      "style": "glowing_golden_foci",
+      "count": 6
+    }
+  ]
+}

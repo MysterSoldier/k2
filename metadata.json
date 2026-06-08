@@ -1,0 +1,6 @@
+{
+  "name": "Robo Defense",
+  "description": "An action-packed futuristic tower defense game featuring tactical upgrades, robotic waves, and grid-based mazing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

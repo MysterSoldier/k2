@@ -1,0 +1,118 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Glowing Hexagonal Target Border -->
+    <path
+        android:pathData="M39,26 L69,26 L86,54 L69,82 L39,82 L22,54 Z"
+        android:strokeWidth="2.0"
+        android:strokeColor="#A1FF0A"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"/>
+
+    <!-- Concentric Tech-Ring inside target hex -->
+    <path
+        android:pathData="M54,54m-22,0a22,22 0,1,1 44,0a22,22 0,1,1 -44,0"
+        android:strokeWidth="0.8"
+        android:strokeColor="#33A1FF0A"
+        android:fillColor="#00000000"/>
+
+    <!-- Inside Octagon (Central mechanical generator base) -->
+    <path
+        android:pathData="M44,38 L64,38 L70,44 L70,64 L64,70 L44,70 L38,64 L38,44 Z"
+        android:fillColor="#151E28"
+        android:strokeWidth="1.8"
+        android:strokeColor="#39FF14"
+        android:strokeLineJoin="round"/>
+
+    <!-- Core Details / Metallic Panels on Generator Base -->
+    <path
+        android:pathData="M48,38 L60,38 M48,70 L60,70"
+        android:strokeWidth="1.5"
+        android:strokeColor="#2F4F4F"/>
+    <path
+        android:pathData="M38,48 L38,60 M70,48 L70,60"
+        android:strokeWidth="1.5"
+        android:strokeColor="#2F4F4F"/>
+
+    <!-- Central Glowing Core Hexagon -->
+    <path
+        android:pathData="M47,54 L50.5,48 L57.5,48 L61,54 L57.5,60 L50.5,60 Z"
+        android:fillColor="#0B0E14"
+        android:strokeWidth="1.2"
+        android:strokeColor="#FFD600" />
+
+    <!-- Pure Center Energy Reactor Dot -->
+    <path
+        android:pathData="M50.5,54 L52.25,51 L55.75,51 L57.5,54 L55.75,57 L52.25,57 Z"
+        android:fillColor="#39FF14"/>
+
+    <!-- Crosshair Pointers (Inward Triangles on Top, Bottom, Left, Right of target ring) -->
+    <!-- Top Pointer -->
+    <path
+        android:pathData="M54,16 L54,23"
+        android:strokeWidth="2.0"
+        android:strokeColor="#A1FF0A"/>
+    <path
+        android:pathData="M51,21 L57,21 L54,26 Z"
+        android:fillColor="#A1FF0A"/>
+
+    <!-- Bottom Pointer -->
+    <path
+        android:pathData="M54,92 L54,85"
+        android:strokeWidth="2.0"
+        android:strokeColor="#A1FF0A"/>
+    <path
+        android:pathData="M51,87 L57,87 L54,82 Z"
+        android:fillColor="#A1FF0A"/>
+
+    <!-- Left Pointer -->
+    <path
+        android:pathData="M16,54 L23,54"
+        android:strokeWidth="2.0"
+        android:strokeColor="#A1FF0A"/>
+    <path
+        android:pathData="M21,51 L21,57 L26,54 Z"
+        android:fillColor="#A1FF0A"/>
+
+    <!-- Right Pointer -->
+    <path
+        android:pathData="M92,54 L85,54"
+        android:strokeWidth="2.0"
+        android:strokeColor="#A1FF0A"/>
+    <path
+        android:pathData="M87,51 L87,57 L82,54 Z"
+        android:fillColor="#A1FF0A"/>
+
+    <!-- Top-Left Inward Orange Chevron Arrow -->
+    <path
+        android:pathData="M16,16 L23,23 M25,25 L29,29"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FF6D00"
+        android:strokeLineCap="round"/>
+    <path
+        android:pathData="M31,23 L31,31 L23,31"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FF6D00"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"/>
+
+    <!-- Top-Right Inward Orange Chevron Arrow -->
+    <path
+        android:pathData="M92,16 L85,23 M83,25 L79,29"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FF6D00"
+        android:strokeLineCap="round"/>
+    <path
+        android:pathData="M77,23 L77,31 L85,31"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FF6D00"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"/>
+
+</vector>

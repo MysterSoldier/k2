@@ -1,0 +1,26 @@
+{
+  "themeName": "Neon Reef",
+  "themeId": "coastal",
+  "palette": {
+    "background": "#001B2E",
+    "primaryAccent": "#00F5D4",
+    "secondaryAccent": "#00B4D8",
+    "gridLineColor": "rgba(0, 245, 212, 0.1)",
+    "gridDotColor": "rgba(0, 180, 216, 0.3)",
+    "pathColor": "#E0FBFC",
+    "portalSpawn": "#00F5D4",
+    "portalExit": "#00B4D8"
+  },
+  "decorations": [
+    {
+      "type": "marine_bubbles",
+      "style": "floating_translucent_ellipses",
+      "count": 18
+    },
+    {
+      "type": "reef_coral",
+      "style": "bioluminescent_pink_branches",
+      "count": 6
+    }
+  ]
+}

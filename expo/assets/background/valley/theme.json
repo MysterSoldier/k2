@@ -1,0 +1,26 @@
+{
+  "themeName": "Echo Valley",
+  "themeId": "valley",
+  "palette": {
+    "background": "#1A122E",
+    "primaryAccent": "#B39DDB",
+    "secondaryAccent": "#7C4DFF",
+    "gridLineColor": "rgba(179, 157, 219, 0.1)",
+    "gridDotColor": "rgba(124, 77, 255, 0.3)",
+    "pathColor": "#EDE7F6",
+    "portalSpawn": "#D1C4E9",
+    "portalExit": "#5E35B1"
+  },
+  "decorations": [
+    {
+      "type": "alpine_crests",
+      "style": "triangular_shadow_regions",
+      "count": 7
+    },
+    {
+      "type": "fog_wisps",
+      "style": "drifting_opaque_valleys",
+      "count": 10
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "themeName": "Digital Torrent",
+  "themeId": "river",
+  "palette": {
+    "background": "#000B1A",
+    "primaryAccent": "#0077B6",
+    "secondaryAccent": "#90E0EF",
+    "gridLineColor": "rgba(0, 119, 182, 0.15)",
+    "gridDotColor": "rgba(144, 224, 239, 0.3)",
+    "pathColor": "#CAF0F8",
+    "portalSpawn": "#00B4D8",
+    "portalExit": "#0077B6"
+  },
+  "decorations": [
+    {
+      "type": "water_ripples",
+      "style": "overlapping_blue_waves",
+      "count": 12
+    },
+    {
+      "type": "cascades",
+      "style": "waterfall_glimmers",
+      "count": 5
+    }
+  ]
+}

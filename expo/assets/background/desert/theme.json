@@ -1,0 +1,26 @@
+{
+  "themeName": "Scorched Dunes",
+  "themeId": "desert",
+  "palette": {
+    "background": "#2B1C10",
+    "primaryAccent": "#FFB74D",
+    "secondaryAccent": "#FF9100",
+    "gridLineColor": "rgba(255, 183, 77, 0.1)",
+    "gridDotColor": "rgba(255, 145, 0, 0.3)",
+    "pathColor": "#FFF3E0",
+    "portalSpawn": "#FFA726",
+    "portalExit": "#E65100"
+  },
+  "decorations": [
+    {
+      "type": "sandstorm_whirls",
+      "style": "spiraling_dust_curves",
+      "count": 10
+    },
+    {
+      "type": "cacti_monoliths",
+      "style": "cactus_neon_green_hulls",
+      "count": 5
+    }
+  ]
+}

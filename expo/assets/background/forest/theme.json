@@ -1,0 +1,26 @@
+{
+  "themeName": "Overgrown Core",
+  "themeId": "forest",
+  "palette": {
+    "background": "#081810",
+    "primaryAccent": "#81C784",
+    "secondaryAccent": "#00E676",
+    "gridLineColor": "rgba(129, 199, 132, 0.1)",
+    "gridDotColor": "rgba(0, 230, 118, 0.3)",
+    "pathColor": "#E8F5E9",
+    "portalSpawn": "#4CAF50",
+    "portalExit": "#2E7D32"
+  },
+  "decorations": [
+    {
+      "type": "moss_mounds",
+      "style": "soft_emerald_hills",
+      "count": 12
+    },
+    {
+      "type": "leaf_flurries",
+      "style": "floating_neon_green_leaves",
+      "count": 20
+    }
+  ]
+}
